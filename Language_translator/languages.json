@@ -1,0 +1,258 @@
+{
+  "0": [
+    "af",
+    "Afrikaans"
+  ],
+  "1": [
+    "sq",
+    "Albanian"
+  ],
+  "2": [
+    "ar",
+    "Arabic"
+  ],
+  "3": [
+    "az",
+    "Azerbaijani"
+  ],
+  "4": [
+    "eu",
+    "Basque"
+  ],
+  "5": [
+    "bn",
+    "Bengali"
+  ],
+  "6": [
+    "be",
+    "Belarusian"
+  ],
+  "7": [
+    "bg",
+    "Bulgarian"
+  ],
+  "8": [
+    "ca",
+    "Catalan"
+  ],
+  "9": [
+    "zh-CN",
+    "Chinese Simplified"
+  ],
+  "10": [
+    "zh-TW",
+    "Chinese Traditional"
+  ],
+  "11": [
+    "hr",
+    "Croatian"
+  ],
+  "12": [
+    "cs",
+    "Czech"
+  ],
+  "13": [
+    "da",
+    "Danish"
+  ],
+  "14": [
+    "nl",
+    "Dutch"
+  ],
+  "15": [
+    "en",
+    "English"
+  ],
+  "16": [
+    "eo",
+    "Esperanto"
+  ],
+  "17": [
+    "et",
+    "Estonian"
+  ],
+  "18": [
+    "tl",
+    "Filipino"
+  ],
+  "19": [
+    "fi",
+    "Finnish"
+  ],
+  "20": [
+    "fr",
+    "French"
+  ],
+  "21": [
+    "gl",
+    "Galician"
+  ],
+  "22": [
+    "ka",
+    "Georgian"
+  ],
+  "23": [
+    "de",
+    "German"
+  ],
+  "24": [
+    "el",
+    "Greek"
+  ],
+  "25": [
+    "gu",
+    "Gujarati"
+  ],
+  "26": [
+    "ht",
+    "Haitian Creole"
+  ],
+  "27": [
+    "iw",
+    "Hebrew"
+  ],
+  "28": [
+    "hi",
+    "Hindi"
+  ],
+  "29": [
+    "hu",
+    "Hungarian"
+  ],
+  "30": [
+    "is",
+    "Icelandic"
+  ],
+  "31": [
+    "id",
+    "Indonesian"
+  ],
+  "32": [
+    "ga",
+    "Irish"
+  ],
+  "33": [
+    "it",
+    "Italian"
+  ],
+  "34": [
+    "ja",
+    "Japanese"
+  ],
+  "35": [
+    "kn",
+    "Kannada"
+  ],
+  "36": [
+    "ko",
+    "Korean"
+  ],
+  "37": [
+    "la",
+    "Latin"
+  ],
+  "38": [
+    "lv",
+    "Latvian"
+  ],
+  "39": [
+    "lt",
+    "Lithuanian"
+  ],
+  "40": [
+    "mk",
+    "Macedonian"
+  ],
+  "41": [
+    "ms",
+    "Malay"
+  ],
+  "42": [
+    "mt",
+    "Maltese"
+  ],
+  "43": [
+    "no",
+    "Norwegian"
+  ],
+  "44": [
+    "fa",
+    "Persian"
+  ],
+  "45": [
+    "pl",
+    "Polish"
+  ],
+  "46": [
+    "pt",
+    "Portuguese"
+  ],
+  "47": [
+    "ro",
+    "Romanian"
+  ],
+  "48": [
+    "ru",
+    "Russian"
+  ],
+  "49": [
+    "sr",
+    "Serbian"
+  ],
+  "50": [
+    "sk",
+    "Slovak "
+  ],
+  "51": [
+    "sl",
+    "Slovenian"
+  ],
+  "52": [
+    "es",
+    "Spanish"
+  ],
+  "53": [
+    "sw",
+    "Swahili"
+  ],
+  "54": [
+    "sv",
+    "Swedish"
+  ],
+  "55": [
+    "ta",
+    "Tamil"
+  ],
+  "56": [
+    "te",
+    "Telugu "
+  ],
+  "57": [
+    "th",
+    "Thai"
+  ],
+  "58": [
+    "tr",
+    "Turkish"
+  ],
+  "59": [
+    "uk",
+    "Ukrainian"
+  ],
+  "60": [
+    "ur",
+    "Urdu"
+  ],
+  "61": [
+    "vi",
+    "Vietnamese"
+  ],
+  "62": [
+    "cy",
+    "Welsh"
+  ],
+  "63": [
+    "yi",
+    "Yiddish"
+  ]
+}
